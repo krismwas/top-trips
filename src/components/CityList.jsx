@@ -1,8 +1,13 @@
 import CityItem from "./CityItem";
 import styles from "./CityList.module.css";
+import Message from "./Message";
+import Spinner from "./Spinner";
 
 function CityList({ cities, isLoading }) {
-  if (isLoading) return;
+  if (isLoading) return <Spinner />;
+
+  if (!cities.length)
+    return <Message message="Add a city by clicking on the map" />;
   return (
     <div className={styles.cityList}>
       {cities.map((city) => (
