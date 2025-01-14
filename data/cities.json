@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +11,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Mediterranean Sea",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-01-14T12:28:43.853Z",
+      "notes": "",
+      "position": {
+        "lat": "36.914764288955936",
+        "lng": "3.6914062500000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Rabat",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2025-01-14T12:32:51.573Z",
+      "notes": "",
+      "position": {
+        "lat": "35.90684930677121",
+        "lng": "14.39208984375"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Ouad Naga",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2025-01-14T12:37:18.876Z",
+      "notes": "",
+      "position": {
+        "lat": "18.25021997706561",
+        "lng": "-15.798339843750002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Senegal",
+      "country": "Senegal",
+      "emoji": "🇸🇳",
+      "date": "2025-01-14T12:37:18.876Z",
+      "notes": "",
+      "position": {
+        "lat": "14.732386081418454",
+        "lng": "-17.358398437500004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Ismailia",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-01-14T12:53:56.737Z",
+      "notes": "",
+      "position": {
+        "lat": "30.524413269923986",
+        "lng": "32.21191406250001"
+      },
+      "id": 98443203
     }
   ]
 }
